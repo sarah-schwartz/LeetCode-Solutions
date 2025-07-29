@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
