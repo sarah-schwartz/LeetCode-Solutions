@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0061-rotate-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
