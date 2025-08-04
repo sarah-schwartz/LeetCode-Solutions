@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
