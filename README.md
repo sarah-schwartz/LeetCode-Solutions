@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0572-subtree-of-another-tree](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -48,9 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0061-rotate-list) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0039-combination-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
