@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
