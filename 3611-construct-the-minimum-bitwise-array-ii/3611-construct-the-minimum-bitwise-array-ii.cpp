@@ -39,7 +39,7 @@ public:
                 else{
                     int temp = nums[i] >> 1;
                     temp <<= 1;
-ans[i] = ((temp | (temp - 1)) == nums[i]) ? (temp - 1) : temp;
+                    ans[i] = ((temp | (temp - 1)) == nums[i]) ? (temp - 1) : temp;
                 }
             }
         }
