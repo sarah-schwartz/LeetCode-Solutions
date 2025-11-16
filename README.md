@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Matrix
 |  |
 | ------- |
