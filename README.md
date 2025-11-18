@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -47,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0061-rotate-list) |
 ## Backtracking
 |  |
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
