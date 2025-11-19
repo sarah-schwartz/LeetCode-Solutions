@@ -1,23 +1,25 @@
 class Solution {
 public:
     int largestPalindrome(int n) {
-        if (n == 1) return 9;  // special case
+        if (n == 1) return 9;  // Special case for 1-digit numbers
         
-        long long upper = pow(10, n) - 1;
+        long long maxNDigit = pow(10, n) - 1;  // Largest n-digit number
         
-        for (long long half = upper; half >= 0; half--) {
+        // Loop over possible "left halves" of palindrome, from largest down
+        for (long long leftHalf = maxNDigit; leftHalf >= 0; leftHalf--) {
 
-            // Build palindrome from left half
-            string s = to_string(half);
-            string r = string(s.rbegin(), s.rend());
-            long long p = stoll(s + r);
+            // Build palindrome by appending reversed left half
+            string leftStr = to_string(leftHalf);
+            string reversedStr(leftStr.rbegin(), leftStr.rend());
+            long long palindrome = stoll(leftStr + reversedStr);
 
-            // Try dividing it by n-digit numbers
-            for (long long x = upper; x * x >= p; x--) {
-                if (p % x == 0)
-                    return p % 1337;
+            // Check if palindrome can be written as product of two n-digit numbers
+            for (long long divisor = maxNDigit; divisor * divisor >= palindrome; divisor--) {
+                if (palindrome % divisor == 0)
+                    return palindrome % 1337;
             }
         }
-        return -1;
+
+        return -1; // No palindrome found (should not happen)
     }
 };
