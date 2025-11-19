@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0572-subtree-of-another-tree](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+## Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
