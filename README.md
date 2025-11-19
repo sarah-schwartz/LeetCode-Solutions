@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0051-n-queens) |
 ## Dynamic Programming
 |  |
 | ------- |
