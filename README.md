@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0479-largest-palindrome-product](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0479-largest-palindrome-product) |
 ## Recursion
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0479-largest-palindrome-product](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0479-largest-palindrome-product) |
 <!---LeetCode Topics End-->
