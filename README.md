@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0572-subtree-of-another-tree](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0765-couples-holding-hands](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
 ## String Matching
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0765-couples-holding-hands](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -135,8 +137,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0765-couples-holding-hands](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
+## Union Find
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
 <!---LeetCode Topics End-->
