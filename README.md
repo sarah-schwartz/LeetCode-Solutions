@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Simulation
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Graph
 |  |
 | ------- |
@@ -127,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
+## Greedy
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
