@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0846-hand-of-straights](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0846-hand-of-straights](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 ## Stack
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0846-hand-of-straights](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 ## Simulation
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0765-couples-holding-hands](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
+| [0846-hand-of-straights](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
