@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0846-hand-of-straights](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [2104-sum-of-subarray-ranges](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [2104-sum-of-subarray-ranges](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [2104-sum-of-subarray-ranges](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Linked List
 |  |
 | ------- |
