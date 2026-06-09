@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0572-subtree-of-another-tree](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [1768-merge-strings-alternately](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Tree
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [1768-merge-strings-alternately](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Backtracking
 |  |
