@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
