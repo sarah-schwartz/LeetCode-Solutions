@@ -7,8 +7,10 @@ public:
 
             int need = k - num;
 
-            if (mp[need] > 0) {
-                mp[need]--;
+            auto it = mp.find(need);
+
+            if (it != mp.end() && it->second > 0) {
+                it->second--;
                 operations++;
             }
             else {
