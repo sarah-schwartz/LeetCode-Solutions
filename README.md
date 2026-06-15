@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0846-hand-of-straights](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0846-hand-of-straights](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Backtracking
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0846-hand-of-straights](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Simulation
 |  |
 | ------- |
