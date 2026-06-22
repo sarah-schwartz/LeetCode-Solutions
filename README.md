@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2352-equal-row-and-column-pairs](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2352-equal-row-and-column-pairs](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [2352-equal-row-and-column-pairs](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2352-equal-row-and-column-pairs](https://github.com/sarah-schwartz/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Enumeration
 |  |
 | ------- |
